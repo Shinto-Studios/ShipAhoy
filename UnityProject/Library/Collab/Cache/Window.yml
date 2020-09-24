@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Scripts/CannonBall.cs
+    - Assets/Scripts/DamageUI.cs
+    - Assets/Scripts/EnemyShip.cs
+    - Assets/Scripts/Fuelbar.cs
+    - Assets/Scripts/GameManager.cs
+    - Assets/Scripts/Healthbar.cs
+    - Assets/Scripts/IShip.cs
+    - Assets/Scripts/MainMenu.cs
+    - Assets/Scripts/MainMenu.cs.meta
+    - Assets/Scripts/Mine.cs
+    - Assets/Scripts/NetworkManager.cs
+    - Assets/Scripts/UIManager.cs
+    - 
+    m_Values: 01010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
